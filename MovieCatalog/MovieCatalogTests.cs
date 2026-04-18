@@ -8,6 +8,7 @@ namespace MovieCatalog
 {
     public class Tests
     {
+        //Create comment to test the commit functionality of git
         private RestClient client;
         private static string movieId;
 
